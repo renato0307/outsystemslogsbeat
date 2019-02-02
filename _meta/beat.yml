@@ -1,0 +1,7 @@
+################### Outsystemslogsbeat Configuration Example #########################
+
+############################# Outsystemslogsbeat ######################################
+
+outsystemslogsbeat:
+  # Defines how often an event is sent to the output
+  period: 1s

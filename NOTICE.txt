@@ -1,0 +1,5 @@
+outsystemslogsbeat
+Copyright 2019 Renato Torres
+
+This product includes software developed by The Apache Software
+Foundation (http://www.apache.org/).
